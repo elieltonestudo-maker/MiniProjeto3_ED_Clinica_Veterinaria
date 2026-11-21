@@ -1,0 +1,2 @@
+# Nenhuma biblioteca externa necessária.
+# O projeto utiliza apenas a biblioteca padrão do Python (sqlite3, datetime, random, unicodedata).
