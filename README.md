@@ -1,10 +1,16 @@
 # Sistema de Gestão de Clínica Veterinária
 
-Projeto 3 da disciplina de Estrutura de Dados. O sistema simula o ciclo completo de uma clínica para cães e gatos, desde o cadastro do tutor e a triagem do animal até o pagamento do atendimento, utilizando estruturas de dados implementadas do zero em Python e persistência em Banco de Dados Relacional (SQLite).
+**Autor:** Elielton Barbosa  
+**Instituição:** FATEC Rio Claro - SP   
+**Curso:** Inteligência Artificial  
+**Disciplina:** Estrutura de Dados | **Professor:** Orlando Saraiva Jr.  
+**Projeto 3**  
+
+O sistema simula o ciclo completo de uma clínica para cães e gatos, desde o cadastro do tutor e a triagem do animal até o pagamento do atendimento, utilizando estruturas de dados implementadas do zero em Python e persistência em Banco de Dados Relacional (SQLite).
 
 > O projeto reaproveita a arquitetura do Projeto 2 (Oficina Mecânica) em um novo contexto: o mesmo raciocínio de estruturas de dados, agora aplicado a tutores, animais, salas de atendimento, medicamentos e vacinas.
 
-🎥 **Vídeo de apresentação:** _(cole aqui o link do YouTube)_
+🎥 **Vídeo de apresentação:** [Assista no YouTube](https://youtu.be/LqNpNMQA_eY)
 
 ## 🔄 Da Oficina para a Clínica
 
